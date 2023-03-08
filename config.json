@@ -1,0 +1,10 @@
+{
+  "db": {
+    "database": "School-Management",
+    "username": "postgres",
+    "password": "123",
+    "logging": false,
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
